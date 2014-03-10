@@ -42,10 +42,14 @@ Jeśli chcemy odseparować tekst przy pomocy linii pozimej wystarczy kilka myśl
 Dodanie linku 
 
 Rozpoczynamy od nazwy pod jaką ma się kryć link do określonej strony, ujmując ją w nawias kwadratowy.
+
 Następnie wpisujemy pełny adres strony w nawiasie okrągłym.
+
 Jeśli chcemy aby po wskazaniu przez myszkę naszego linka ukazywał się tekst wystarczy po adresie strony dodać go ujmując w cudzysłów
 
 Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=6A5EpqqDOdk "Klikaj śmiało i naucz się podstaw")
+
+
 
 
 
