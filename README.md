@@ -9,7 +9,7 @@ Aby wpisać kolejną linijkę tekstu nie musimy stosować żadnych znaków specj
 
 ## PODTYTUŁ
 
-Stosując dwa znaki hashujące tworzymy podtytuł, który jest jak widać napisany nieco mniejszą czcionką
+Stosując "##" tworzymy podtytuł, który jest jak widać napisany nieco mniejszą czcionką
 
 ## WYPUNKTOWANIA
 
