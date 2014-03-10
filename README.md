@@ -27,9 +27,9 @@ Wypunktowanie
 
 Tworzymy przez dodanie myśnika na początku linijki przed tekstem
 
--tekst1
--tekst2
--tekst3
+- tekst1
+- tekst2
+- tekst3
 
 
 
