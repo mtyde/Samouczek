@@ -1,6 +1,9 @@
 Samouczek
 =========
 
+![logo](http://cdn.fikobservatory.com/wp-content/uploads/2012/11/github-page-not-found-404-jedi-spaceship-future-interactive.png)
+
+
 # TYTUŁ
 
 Tytuł wpisujemy zaczynając linijkę od znaku "#"
@@ -49,9 +52,8 @@ Jeśli chcemy aby po wskazaniu przez myszkę naszego linka ukazywał się tekst 
 
 Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=6A5EpqqDOdk "Klikaj śmiało i naucz się podstaw")
 
-A oto grafika 
 
-![logo](http://cdn.fikobservatory.com/wp-content/uploads/2012/11/github-page-not-found-404-jedi-spaceship-future-interactive.png)
+
 
 
 
