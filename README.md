@@ -37,7 +37,7 @@ Aby tekst był *pochyły* wystarczy zacząć tekst od "*" i nią zakończyć
 
 Jeśli chcemy odseparować tekst przy pomocy linii pozimej wystarczy kilka myślników "--------" A wygląda to tak
 
-----
+--------
 
 
 
