@@ -25,7 +25,7 @@ Nie różni się ono od numerowania w normalnym edytorze tekstu. Po prostu zaczy
 
 Wypunktowanie 
 
-Tworzymy przez dodanie myślnika przed tekstem (po myślniku robimy spację)
+Tworzymy przez dodanie myślnika "-" przed tekstem (po myślniku robimy spację)
 
 - tekst1
 - tekst2
@@ -35,7 +35,9 @@ Aby **pogrubić** tekst stosujemy "**" na początku i na końcu wyrażenia
 
 Aby tekst był *pochyły* wystarczy zacząć tekst od "*" i nią zakończyć
 
-Co się stanie jeśli zastosuję "***" ***to***
+Jeśli chcemy odseparować tekst przy pomocy linii pozimej wystarczy kilka myślników "--------" A wygląda to tak
+
+----
 
 
 
