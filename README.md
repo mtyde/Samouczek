@@ -41,7 +41,7 @@ Jeśli chcemy odseparować tekst przy pomocy linii pozimej wystarczy kilka myśl
 
 Dodanie linku 
 
-[Tutorial z którego korzystałam](http://www.youtube.com/watch?v=6A5EpqqDOdk)"Klikaj śmiało i naucz się podstaw"
+Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=6A5EpqqDOdk "Klikaj śmiało i naucz się podstaw")
 
 
 
