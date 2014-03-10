@@ -49,6 +49,10 @@ Jeśli chcemy aby po wskazaniu przez myszkę naszego linka ukazywał się tekst 
 
 Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=6A5EpqqDOdk "Klikaj śmiało i naucz się podstaw")
 
+A oto grafika 
+
+![logo](http://finalizedotcom.files.wordpress.com/2013/05/github_icon.png)
+
 
 
 
