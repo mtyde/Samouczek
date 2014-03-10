@@ -35,6 +35,7 @@ Aby **pogrubić** tekst stosujemy "**" na początku i na końcu wyrażenia
 
 Aby tekst był *pochyły* wystarczy zacząć tekst od "*" i nią zakończyć
 
+Co się stanie jeśli zastosuję "***" ***to***
 
 
 
