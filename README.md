@@ -3,7 +3,7 @@ Samouczek
 
 # TYTUŁ
 
-Tytuł wpisujemy zaczynając linijkę od hasha
+Tytuł wpisujemy zaczynając linijkę od znaku "#"
 
 Aby wpisać kolejną linijkę tekstu nie musimy stosować żadnych znaków specjalnych
 
