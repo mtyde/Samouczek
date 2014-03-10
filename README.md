@@ -51,7 +51,7 @@ Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=
 
 A oto grafika 
 
-![logo](http://finalizedotcom.files.wordpress.com/2013/05/github_icon.png)
+![logo](http://cdn.fikobservatory.com/wp-content/uploads/2012/11/github-page-not-found-404-jedi-spaceship-future-interactive.png)
 
 
 
