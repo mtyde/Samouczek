@@ -54,7 +54,7 @@ Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=
 
 ============
 
-Prezentacja  przygotowana za pomocą narzędzia Reveal.js [Dyniowe Inspiracje Kulinarne] [http://slid.es/mtyde/dyniowe-inspiracje-kulinarne "Smacznego ! ! !"]
+Prezentacja  przygotowana za pomocą narzędzia Reveal.js [Dyniowe Inspiracje Kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne "Smacznego ! ! !")
 
 
 
