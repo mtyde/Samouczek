@@ -52,10 +52,6 @@ Jeśli chcemy aby po wskazaniu przez myszkę naszego linka ukazywał się tekst 
 
 Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=6A5EpqqDOdk "Klikaj śmiało i naucz się podstaw")
 
-============
-
-Prezentacja  przygotowana za pomocą narzędzia Reveal.js [Dyniowe Inspiracje Kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne "Smacznego ! ! !")
-
 =========
 
 zajęcia z html w jsbin [js bin](http://jsbin.com/xosuv/1/)
