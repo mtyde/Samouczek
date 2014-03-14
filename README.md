@@ -52,9 +52,6 @@ Jeśli chcemy aby po wskazaniu przez myszkę naszego linka ukazywał się tekst 
 
 Polecam tutorial, z którego korzystałam [link](http://www.youtube.com/watch?v=6A5EpqqDOdk "Klikaj śmiało i naucz się podstaw")
 
-=========
-
-zajęcia z html w jsbin [js bin](http://jsbin.com/xosuv/1/)
 
 
 
