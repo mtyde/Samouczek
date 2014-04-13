@@ -1,5 +1,5 @@
 Samouczek
-=========
+=========-
 
 ![logo](http://cdn.fikobservatory.com/wp-content/uploads/2012/11/github-page-not-found-404-jedi-spaceship-future-interactive.png)
 
